@@ -1,0 +1,11 @@
+Flask==3.0.2
+flask-cors==5.0.1
+python-dotenv==1.0.1
+pexels==0.0.11
+pexels-api==1.0.1
+moviepy==1.0.3
+pydub==0.25.1
+SpeechRecognition==3.10.0
+srt==3.5.3
+opencv-python==4.11.0.86
+ffmpeg-python==0.2.0 
